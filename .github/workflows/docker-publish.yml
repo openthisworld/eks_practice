@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./web_app/Dockerfile
           push: true
-          tags: your-dockerhub-username/your-repo-name:latest
+          tags: openthisworld/eks_practice:latest
